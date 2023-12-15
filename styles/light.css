@@ -4,7 +4,7 @@
   --text-color: #353430;
   --header-background: url('../images/cover-image-light.png');
   --title-color: #ffc2e6;
-  --article-title: var(--text-color);
+  --article-title: #353430;
   --toggler-hover: rgba(50, 49, 45, 0.4);
 }
 
@@ -19,7 +19,7 @@
     --text-color: #353430;
     --header-background: url('../images/cover-image-light.png');
     --title-color: #ffc2e6;
-    --article-title: var(--text-color);
+    --article-title: #353430;
     --toggler-hover: rgba(50, 49, 45, 0.4);
   }
   

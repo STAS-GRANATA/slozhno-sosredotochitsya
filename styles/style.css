@@ -156,6 +156,7 @@
   align-self: start;
   font-weight: 700;
   line-height: 130%;
+  max-width: 355px;
 }
 
 .header__title_paragraph {
@@ -259,6 +260,7 @@
 
   .header__title {
     grid-column: 3 / 5;
+    max-width: 364px;
   }
 
   .header__rec {
@@ -342,6 +344,7 @@
 
   .header__title {
     margin-block-start: 15px;
+    max-width: 491px;
   }
 
   .content__description-horizontal {
